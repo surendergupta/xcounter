@@ -37,4 +37,4 @@ You may also see any lint errors in the console.
 
 ### `Deploy to Vercel`
 
-XCounter
+XCounter [https://xcounter-ruddy.vercel.app/](https://xcounter-ruddy.vercel.app/) to view it in your browser.
